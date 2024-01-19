@@ -22,9 +22,3 @@
 
 - [docker-compose.yaml](/docker-compose.yaml)
 - [telegraf.conf](/telegraf.conf)
-
----
-
-Para mais informações sobre o servidor OPC UA, entre em contato conosco.
-
-Boa sorte!
