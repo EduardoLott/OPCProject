@@ -1,0 +1,13 @@
+variables:
+  - name: 'Variable1'
+    type: 'Int'
+  - name: 'Variable2'
+    type: 'Int'
+  - name: 'Variable3'
+    type: 'Float'
+  - name: 'Variable4'
+    type: 'Float'
+  - name: 'Variable5'
+    type: 'Bool'
+  - name: 'Variable6'
+    type: 'Bool'
